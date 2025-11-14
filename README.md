@@ -4,6 +4,15 @@ I'm am a full stack developer mostly in the PHP world and love building apps in 
 
 - 📈 [Code::Stats](https://codestats.net/users/Daikazu)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daikazu&count_private=true&show_icons=true&theme=dark)
+
+
+## 🔧 Technologies & Tools
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daikazu&layout=compact&theme=dark)
+
 
 
 
