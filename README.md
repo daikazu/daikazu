@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full stack developer working primarily in the PHP/Laravel ecosystem. I currently work as a senior developer at a large promotional product company where I build and maintain web applications.
+I'm a developer working primarily in the PHP/Laravel ecosystem. I currently working as a senior developer at a large promotional product company where I build and maintain web applications.
 
 I love creating open source packages that solve real problems. If any of my work has helped you out, feel free to star a repo or open an issue — I'm always happy to chat!
 
