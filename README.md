@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm a developer working primarily in the PHP/Laravel ecosystem. I currently working as a senior developer at a large promotional product company where I build and maintain web applications.
+I'm currently a senior software engineer at a large promotional product company, where I build and maintain web applications, internal productivity tools, and business intelligence (BI) systems that help teams work faster and make better decisions.
 
-I love creating open source packages that solve real problems. If any of my work has helped you out, feel free to star a repo or open an issue — I'm always happy to chat!
+I love creating tools that solve real problems. If any of my work has helped you out, feel free to star a repo. Ideas, feature requests, and PRs are welcome — I'm always happy to chat!
+
+My go-to stack:
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -30,6 +32,7 @@ I love creating open source packages that solve real problems. If any of my work
 | [laratone](https://github.com/daikazu/laratone) | ![Packagist Downloads](https://img.shields.io/packagist/dt/daikazu/laratone?style=flat-square&color=blue) | Simple API for managing color libraries in Laravel |
 | [asset-cleaner](https://github.com/daikazu/asset-cleaner) | ![Packagist Downloads](https://img.shields.io/packagist/dt/daikazu/asset-cleaner?style=flat-square&color=blue) | Clean unused assets from your Laravel app |
 | [eloquent-salesforce-objects](https://github.com/daikazu/eloquent-salesforce-objects) | ![Packagist Downloads](https://img.shields.io/packagist/dt/daikazu/eloquent-salesforce-objects?style=flat-square&color=blue) | Eloquent-style interface for working with Salesforce objects |
+| [bladewind](https://github.com/daikazu/bladewind) | ![Packagist Downloads](https://img.shields.io/packagist/dt/daikazu/bladewind?style=flat-square&color=blue) | Per-page CSS for Laravel Blade, split from your existing Vite build |
 
 ---
 
