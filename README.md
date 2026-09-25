@@ -1,4 +1,4 @@
-<img alt="Mike Wall (daikazu), mikewall.dev" src="assets/header.svg" width="100%">
+<a href="https://mikewall.dev"><img alt="Mike Wall (daikazu), mikewall.dev" src="assets/header.svg" width="100%"></a>
 
 I'm currently a senior software engineer at a large promotional product company, where I build and maintain web applications, internal productivity tools, and business intelligence (BI) systems that help teams work faster and make better decisions.
 
